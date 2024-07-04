@@ -1,6 +1,9 @@
 Project Name
+
 Sace lab demo project
+
 Introduction
+
 This project provides a Java test automation framework utilizing Maven for build management, TestNG for test execution, and Extent Reports for comprehensive and visually appealing test results.
 Prerequisites
 •	Java Development Kit (JDK): Ensure you have the latest JDK installed. Download and install it from the official Oracle website: https://www.oracle.com/java/technologies/downloads/
