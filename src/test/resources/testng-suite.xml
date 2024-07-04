@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="sauce_demo_regression_suite">
+    <test name="products_carts_tests">
+        <classes>
+            <class name="com.sauceDemo.test.CartTest"/>
+            <class name="com.sauceDemo.test.ProductsTest"/>
+        </classes>
+    </test>
+</suite>
